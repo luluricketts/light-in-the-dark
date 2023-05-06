@@ -1,3 +1,6 @@
 **/__pycache__
-data
-logs
+ablation
+checkpoints
+model
+final_dataset
+test_dataset
